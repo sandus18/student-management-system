@@ -31,9 +31,16 @@
     {
       "name": "John Max",
       "age": 20,
-      "course": "B.Tech - CSE",
+      "course": "Computer Science",
       "email": "johnmax@gmail.com",
-      "id": "jT5S86u2OBU"
+      "id": "5"
+    },
+    {
+      "name": "dv",
+      "age": 88,
+      "course": "eheh",
+      "email": "sandusp.csb2226@saintgits.org",
+      "id": "Rd430DUrkPI"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
