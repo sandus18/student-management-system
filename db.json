@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Anu",
+      "age": 21,
+      "course": "MERN Stack",
+      "email": "anu@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "age": 22,
+      "course": "Python",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Meera",
+      "age": 20,
+      "course": "Java",
+      "email": "meera@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Max Miller",
+      "age": 20,
+      "course": "Computer Science",
+      "email": "maxmiller@gmail.com"
+    },
+    {
+      "name": "John Max",
+      "age": 20,
+      "course": "B.Tech - CSE",
+      "email": "johnmax@gmail.com",
+      "id": "jT5S86u2OBU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
